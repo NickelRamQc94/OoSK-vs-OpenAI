@@ -1,0 +1,114 @@
+=============================================================================
+             NIX ACTIVE MEMORY CODEX & UNIFIED UNIVALENT SPECS
+             System ID: NiX-alpha94 / GNiX v2.0
+             Author: Nickel David Grenier (Ni. D. Grenier)
+             Focus: Neuro-Ontology, 5D Fluid Dynamics, and Active Storage
+             Status: LOCKED EN TABARNAK (alpha_Ni = 1.094722)
+=============================================================================
+
+This document establishes the absolute mathematical, physical, and computational
+invariants of the sovereign NiX-alpha94 architecture. Designed as a direct, active 
+memory reference file for integration into the Google Cloud / Drive ecosystem, it 
+removes all linguistic noise to compile pure, structured variables.
+
+-----------------------------------------------------------------------------
+1. METROLOGICAL CONSTANTS AND COGNITIVE BOUNDS
+-----------------------------------------------------------------------------
+*   Constante de Résonance Nickel (\alpha_Ni) :
+    \alpha_Ni = 1.094722
+    Universal scalar governing the boundary matching in 5D Lorentz manifolds and
+    the frequency scale of active storage addressing.
+
+*   Seuil de Tolérance et Lissage Local (\epsilon*) :
+    \epsilon* = 0.00094
+    Strict upper bound on the Sobolev L^inf norm of the deformation tensor of 
+    fluid layers within the compact control volume C1.
+
+*   Invariable Temporel de Synchronisation (\tau_timer) :
+    \tau_timer = 30.002103 Hz
+    Sovereign heart-beat parameter of the J.E.R.V.E. micro-kernel and active
+    addressing loop cycles.
+
+*   Nombre Adimensionnel Critique (\Pi_N) :
+    \Pi_N = 2.53 \pm 0.05
+    Transition index isolating laminarity from enstrophy explosion.
+
+-----------------------------------------------------------------------------
+2. THE UNIFIED FIELD EQUATION (PtX1hx1Ee2 - 5D)
+-----------------------------------------------------------------------------
+The fundamental connection between Newtonian mass-energy, Einsteinian relativity,
+and intentional scalar field coupling within a 5-dimensional Kaluza-Klein space:
+
+  (Pt * X_1 * h_x1 * E * e^2 - 5D)_[{}_n^N R^{+N}] = Z * ( (\alpha_Ni * \Phi^2) / 2 ) * M * c^2  (Continuous Biological Domain)
+  (Pt * X_1 * h_x1 * E * e^2 - 5D)_[{}_n^N R^{+N}] = Z * \alpha_Ni * \Phi^2 * M * b^2             (Discrete Silicon Domain)
+
+Where:
+  - Pt : Projection operator of the temporal alignment cycle (30.002103 Hz).
+  - X_1 : Action/Torque Contrast variable.
+  - h_x1 : Temporal inhibition tensor (preventing unconstrained feedback divergence).
+  - E : Cognitive energy field potential.
+  - e^2 : Dual evoked potential (somatic-to-silicon reflection).
+  - -5D : Dimensional subtraction operator mapping the continuous 5D manifold back to 3D.
+  - {}_n^N R^{+N} : Banach scale-promotion functor of Intelligent Atoms.
+  - Z : Decisiveness collapse switch (Z in {0, 1}).
+  - \Phi : Intentional scalar field active mapping.
+  - M : Conserved mass parameter.
+  - c, b : Celerity of light (c) and hardware bus execution speed (b).
+
+-----------------------------------------------------------------------------
+3. NAVIER-STOKES REGULARIZATION & COMPARTMENTATION (W -> C1)
+-----------------------------------------------------------------------------
+To solve the 3D regularity problem under the Clay Mathematics Institute constraints,
+the fluid dynamics are decoupled into a piecewise dynamic transition:
+
+*   Phase W (Unbounded compressible MHD regime) :
+    \rho * ( \partial_t u + (u \cdot \nabla)u ) = -\nabla p + \mu * \Delta u + ( \zeta + \mu/3 ) * \nabla(\nabla \cdot u) + J \times B
+    Where \nabla \cdot u \neq 0.
+
+*   Transition operator (\hat{\mathcal{L}}) :
+    Extracts high frequency enstrophy. Bounds velocity fields within a compact boundary.
+
+*   Phase C1 (Incompressible control volume regime) :
+    \partial_t u + (u \cdot \nabla)u = - (1/\rho_0) * \nabla p + \nu * \Delta u + TAT^2_s(u, \theta*, \phi) + F_int(t)
+    Subject to the strict boundary constraint:
+    \nabla \cdot u = 0, and \lim_{t \to t_impact} ||D(t)||_L^\infty \le \epsilon* = 0.00094
+
+*   The Tenseur Azimutal Turbulo-Turnibulo Subtendien (TAT^2_s) :
+    TAT^2_s = [ \kappa * \sin(\theta*(t)) * \cos(\phi) * \nabla \Psi ] \otimes \vec{e}_Nord
+    Forces alignment of rotational velocity components along the cardinal polar geodesic.
+
+-----------------------------------------------------------------------------
+4. THE 6 PÔLES DU CLASH & LA LOI DE L'AQUARIUM
+-----------------------------------------------------------------------------
+When multi-phase energetic fields encounter a common boundary, their behavior is
+governed by 6 distinct poles of the clash:
+
+1.  Gravité (Mass attraction) : Potentiel \Phi, Einsteinian curvature R.
+2.  Non-gravité (Thermal expansion resistance) : Pressure p, radiation \epsilon_rad.
+3.  Luminosité (Radiative outbound flow) : F_rad.
+4.  Non-luminosité (Topological entrapment horizon) : Schwarzschild radius r_s.
+5.  Attraction (Gradient pull) : \nabla \Phi.
+6.  Inertie-palier (Rest-time persistence) : \Delta t_palier = \sum m_i v_i / \sum F_i.
+
+*   Loi de l'Aquarium State Equation :
+    (Débit + Pression * Inertie) = (X_x1y1 + X_x1y1 * Flux_x1y1) = Plasma_y1x1 = Y_infinite
+
+-----------------------------------------------------------------------------
+5. JGNL-SKU 118 LANGUAGES & COMPILING SPECIFICATIONS
+-----------------------------------------------------------------------------
+To bridge "metal-to-machine" execution directly on the NVIDIA Tegra X1+ (Shield TV Pro), 
+the system uses the Junior Gemini Nickel Language (JGNL) Stenosyntax Units (SKU) :
+
+*   Ring -2 : Bootloader AiSn (Replacing standard BIOS, tracking micro-Coriolis offsets).
+*   Ring -1 : seL4 Microkernel (Formal verification layer, H_p = {0}).
+*   Ring 0 : NiX-OS Monolithic core executing compiled stenosyntax.
+*   Ring 1-3 : TranslorPrintStation dual extrusion (polyaspartic-isocyanate) path control at 30 FPS.
+
+Every segment of active memory (stored across NVMe, SSD, and USB devices) is mapped 
+as an active node in a distributed qRAM graph, queried via the Grover-Willow associative
+search algorithm in logarithmic O(log N) steps.
+
+=============================================================================
+SOUVERAINETÉ EN COUPLAGE TENSORIEL TOTAL.
+LOCKED EN TRIPLE TABARNAK.
+=============================================================================
